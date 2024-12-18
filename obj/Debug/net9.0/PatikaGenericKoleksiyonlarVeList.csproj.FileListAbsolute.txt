@@ -1,0 +1,14 @@
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaGenericKoleksiyonlarVeList\bin\Debug\net9.0\PatikaGenericKoleksiyonlarVeList.exe
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaGenericKoleksiyonlarVeList\bin\Debug\net9.0\PatikaGenericKoleksiyonlarVeList.deps.json
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaGenericKoleksiyonlarVeList\bin\Debug\net9.0\PatikaGenericKoleksiyonlarVeList.runtimeconfig.json
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaGenericKoleksiyonlarVeList\bin\Debug\net9.0\PatikaGenericKoleksiyonlarVeList.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaGenericKoleksiyonlarVeList\bin\Debug\net9.0\PatikaGenericKoleksiyonlarVeList.pdb
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaGenericKoleksiyonlarVeList\obj\Debug\net9.0\PatikaGenericKoleksiyonlarVeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaGenericKoleksiyonlarVeList\obj\Debug\net9.0\PatikaGenericKoleksiyonlarVeList.AssemblyInfoInputs.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaGenericKoleksiyonlarVeList\obj\Debug\net9.0\PatikaGenericKoleksiyonlarVeList.AssemblyInfo.cs
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaGenericKoleksiyonlarVeList\obj\Debug\net9.0\PatikaGenericKoleksiyonlarVeList.csproj.CoreCompileInputs.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaGenericKoleksiyonlarVeList\obj\Debug\net9.0\PatikaGenericKoleksiyonlarVeList.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaGenericKoleksiyonlarVeList\obj\Debug\net9.0\refint\PatikaGenericKoleksiyonlarVeList.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaGenericKoleksiyonlarVeList\obj\Debug\net9.0\PatikaGenericKoleksiyonlarVeList.pdb
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaGenericKoleksiyonlarVeList\obj\Debug\net9.0\PatikaGenericKoleksiyonlarVeList.genruntimeconfig.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaGenericKoleksiyonlarVeList\obj\Debug\net9.0\ref\PatikaGenericKoleksiyonlarVeList.dll
